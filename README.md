@@ -1,4 +1,3 @@
-# Fantastic Fiesta v1.0
 
 ![cooltext430371989302291](https://user-images.githubusercontent.com/126347194/221371122-5ee8376c-1531-45ff-8bdd-a5e07e348bf5.png)
 
