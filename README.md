@@ -1,6 +1,6 @@
 # Fantastic Fiesta v1.0
 
-![alt text](https://r73.cooltext.com/rendered/cooltext430371977220890.png)
+![Screenshot](https://r73.cooltext.com/rendered/cooltext430371977220890.png)
 
 
 Este proyecto lo hago público hoy para que puedan crear MUCHAS cuentas en VidLii pero con un proceso semi-automático.
