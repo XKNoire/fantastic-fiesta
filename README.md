@@ -1,4 +1,8 @@
 # Fantastic Fiesta v1.0
+
+![alt text](https://r73.cooltext.com/rendered/cooltext430371977220890.png)
+
+
 Este proyecto lo hago público hoy para que puedan crear MUCHAS cuentas en VidLii pero con un proceso semi-automático.
 
 # ¿Qué hace esto?
@@ -21,6 +25,11 @@ Fantastic Fiesta es un Script de iMacros para crear muchas cuentas en VidLii, co
 ✯ Tener una VPN (HolaVPN por ejemplo)
 
 ✯ Un editor de Texto (Para guardar los nombres de las cuentas que vayas creando)
+
+# Uso del script
+
+𒆨
+
 
 
 # Instalación
