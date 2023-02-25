@@ -4,6 +4,10 @@
 
 Este proyecto lo hago público hoy para que puedan crear MUCHAS cuentas en VidLii pero con un proceso semi-automático.
 
+# IMPORTANTE:
+
+Cabe mencionar que en algún momento del Script, el imacros estará esperando 15 segundos, esto es para que resuelvas el Kaptcha de Kolyma Network, solo tienes que resolver el kaptcha y clickear a check y ahí no hacer nada más.
+
 # ¿Qué hace esto?
 Fantastic Fiesta es un Script de iMacros para crear muchas cuentas en VidLii, con esto puedes hacer varias cosas:
 
@@ -62,7 +66,7 @@ Fantastic Fiesta es un Script de iMacros para crear muchas cuentas en VidLii, co
 
 # Uso del Script
 
-𒆨 Para Reproducir el Script la mayor cantidad de veces recomiendo cambiar "Max: 3" a "Max: 20", si tu IP es dinámica eso implica que puedes hacerte 20 cuentas de VidLii por día, a menos de que tengas una VPN.
+𒆨 Para Reproducir el Script la mayor cantidad de veces recomiendo cambiar "Max: 3" a "Max: 20", si tu IP es dinámica eso implica que puedes hacerte 20 cuentas de VidLii por día, a menos de que tengas una VPN. 
 
 ![2023-02-25_16-36](https://user-images.githubusercontent.com/126347194/221376461-9ae6e3dd-9f5e-4a5c-b7f2-94fc0eb03c13.png)
 
