@@ -1,0 +1,20 @@
+VERSION BUILD=10101485
+URL GOTO=https://www.vidlii.com
+WAIT SECONDS=2.5
+TAG POS=1 TYPE=A ATTR=TXT:Cerrar<SP>sesión
+WAIT SECONDS=5
+SET !VAR1 EVAL("var randomNumber=Math.floor(Math.random(1)*1421632 + 1); randomNumber;")
+SET !VAR2 EVAL("var randomNumber=Math.floor(Math.random(1)*1153632 + 1); randomNumber;")
+URL GOTO=https://www.vidlii.com/register
+TAG SELECTOR="#re_email" CONTENT={{!var1}}@intel.ontop
+TAG SELECTOR="#re_username" CONTENT=Open{{!var2}}
+SET !ENCRYPTION NO
+TAG SELECTOR="#re_box>DIV>FORM>TABLE>TBODY>TR:nth-of-type(6)>TD:nth-of-type(2)>SELECT:nth-of-type(3)" CONTENT=%2004
+TAG SELECTOR="#re_box>DIV>FORM>TABLE>TBODY>TR:nth-of-type(6)>TD:nth-of-type(2)>SELECT:nth-of-type(2)" CONTENT=%17
+TAG SELECTOR="#re_box>DIV>FORM>TABLE>TBODY>TR:nth-of-type(6)>TD:nth-of-type(2)>SELECT" CONTENT=%8
+TAG SELECTOR="#pw1" CONTENT=IntelOnTop
+TAG SELECTOR="#pw2" CONTENT=IntelOnTop
+TAG SELECTOR="#re_box>DIV>FORM>TABLE>TBODY>TR:nth-of-type(7)>TD:nth-of-type(2)>LABEL>INPUT" CONTENT=YES
+WAIT SECONDS=15.2
+TAG SELECTOR="#reg_submit"
+WAIT SECONDS=10.9
